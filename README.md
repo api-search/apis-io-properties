@@ -1,2 +1,2 @@
-# properties-api
-This is the properties API.
+# APIs.io API
+This is an API for the APIs.io search engine.
