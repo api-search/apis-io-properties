@@ -1,4 +1,4 @@
-aid: apis-io
+aid: apis-io-properties
 specificationVersion: '0.18'
 name: APIs.io Properties API
 description: >-
@@ -14,7 +14,7 @@ tags:
 
 apis:
 
-  - aid: apis-io:properties-api
+  - aid: apis-io-properties:properties-api
     name: APIs.io Properties API
     description: >-
       This is the API for powering APIs.io.
